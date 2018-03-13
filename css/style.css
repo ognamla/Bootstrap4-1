@@ -1,0 +1,12 @@
+.nowrap{
+    white-space: nowrap;
+}
+
+/* mobile size below 48 em */
+@media (max-width: 48em) {
+    table .btn {
+        font-size: 12px;
+        font-size: 3.5vw;
+        white-space: nowrap;
+    }
+}
